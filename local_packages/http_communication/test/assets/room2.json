@@ -1,0 +1,47 @@
+{
+    "Rooms": [
+        {
+            "__type": "Room",
+            "DeploymentApplicationName": "ControlScript Deployment Utility",
+            "DeploymentApplicationVersion": "1.4.0",
+            "DeployedProjectVersion": "0.0.1",
+            "Name": "TLP Pro 720T",
+            "Panels": [
+                {
+                    "__type": "Panel",
+                    "ConfigFileName": "7f96e22e-bd75-440a-bf7f-c2c1d11d64a4/vtlpmanifest.json",
+                    "ConfigHostAddress": "10.113.89.174",
+                    "Controller": {
+                        "__type": "ConnectionSettings",
+                        "Address": "10.113.89.174",
+                        "BoxID": 1,
+                        "SubBoxID": 0,
+                        "SystemID": 2158
+                    },
+                    "ControllerFirmware": "",
+                    "ControllerModel": "IPCP Pro 250",
+                    "ControllerName": "IPCP Pro 250",
+                    "ControllerPartNumber": "60-1429-01",
+                    "IgnoreControllerDetails": false,
+                    "IgnoreControllerLinkLicense": false,
+                    "IgnoreTLPDetails": false,
+                    "Name": "TLP Pro 720T",
+                    "TLP": {
+                        "__type": "ConnectionSettings",
+                        "Address": "10.113.89.156",
+                        "BoxID": 2,
+                        "SubBoxID": 0,
+                        "SystemID": 2158
+                    },
+                    "TLPFirmware": "",
+                    "TLPModel": "TLP Pro 720T",
+                    "TLPPartNumber": "60-1395-02",
+                    "UIApplicationName": "",
+                    "UIApplicationVersion": "0.0.0",
+                    "UIProjectVersion": "0.0.0"
+                }
+            ]
+        }
+    ],
+    "SchemaVersion": "1.0.1"
+}

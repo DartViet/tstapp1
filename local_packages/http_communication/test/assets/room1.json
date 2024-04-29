@@ -1,0 +1,46 @@
+{
+    "Rooms": [
+        {
+            "__type": "Room",
+            "GCPro": true,
+            "GlobalConfiguratorProjectVersion": "0.0.1.0",
+            "GlobalConfiguratorVersion": "3.23.1.22",
+            "Name": "TLP Pro 720T : 192.168.0.31",
+            "Panels": [
+                {
+                    "__type": "Panel",
+                    "ConfigFileName": "e0e935f8-9814-487f-95bb-c16eed7e4ac5/vtlpmanifest.json",
+                    "ConfigHostAddress": "192.168.0.30",
+                    "Controller": {
+                        "__type": "ConnectionSettings",
+                        "Address": "192.168.0.30",
+                        "BoxID": 1,
+                        "SubBoxID": 0,
+                        "SystemID": 8251
+                    },
+                    "ControllerFirmware": "3.17.0000-b003-ENG_DEV",
+                    "ControllerModel": "IPCP Pro 255",
+                    "ControllerName": "IPCP Pro 255 : 192.168.0.30",
+                    "ControllerPartNumber": "60-1431-01",
+                    "GUIDesignerProjectVersion": "0.0.0",
+                    "GUIDesignerVersion": "1.19.0.31",
+                    "IgnoreControllerDetails": false,
+                    "IgnoreControllerLinkLicense": false,
+                    "IgnoreTLPDetails": false,
+                    "Name": "TLP Pro 720T : 192.168.0.31",
+                    "TLP": {
+                        "__type": "ConnectionSettings",
+                        "Address": "192.168.0.31",
+                        "BoxID": 2,
+                        "SubBoxID": 0,
+                        "SystemID": 8251
+                    },
+                    "TLPFirmware": "3.04.0000-b005-ENG_DEV",
+                    "TLPModel": "TLP Pro 720T",
+                    "TLPPartNumber": "60-1395-02"
+                }
+            ]
+        }
+    ],
+    "SchemaVersion": "1.0.1"
+}
